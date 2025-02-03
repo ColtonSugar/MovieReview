@@ -1,0 +1,31 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
+    margin: 500;
+    padding: 0;
+    line-height: 1.6;
+    background-color: lightblue
+}
+
+h1 {
+    text-align: center;
+}
+
+.spiderverse {
+    background-color: lightblue;
+}
+
+.sonic {
+    background-color: lightblue;
+}
+
+.penguin{
+    background-color: lightblue;
+}
+
+.legomovie {
+    background-color: lightgreen;
+}
+
+.angry{
+    background-color: lightgreen;
+}
