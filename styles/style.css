@@ -3,29 +3,53 @@ body {
     margin: 500;
     padding: 0;
     line-height: 1.6;
-    background-color: lightblue
+    text-align: center;
+    background-color: black;
 }
 
 h1 {
-    text-align: center;
+    color: White;
 }
 
-.spiderverse {
-    background-color: lightblue;
+.Spiderverse {
+    background-color: gold;
+    padding: 20px;
+    border-radius: 10px;
 }
 
-.sonic {
-    background-color: lightblue;
+
+.Sonic {
+    background-color: gold;
+    padding: 20px;
+    border-radius: 10px;
 }
 
-.penguin{
-    background-color: lightblue;
+.Penguin{
+    background-color: gold;
+    padding: 20px;
+    border-radius: 10px;
 }
 
-.legomovie {
-    background-color: lightgreen;
+.LegoMovie {
+    background-color: black;
+    padding: 20px;
+    border-radius: 10px;
+}
+.LegoMovie p {
+    color: white;
+}
+.LegoMovie h2 {
+    color: white;
+}
+.Angry{
+    background-color: black;
+    padding: 20px;
+    border-radius: 10px;
 }
 
-.angry{
-    background-color: lightgreen;
+.Angry p {
+    color: white;
+}
+.Angry h2 {
+    color: white;
 }
